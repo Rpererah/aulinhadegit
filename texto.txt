@@ -5,3 +5,14 @@ git config --global user.email "seu email"
 git add .
 git add texto.txt 
 git add pasta/.
+
+*git commit*
+git commit -m 'mensagem'
+
+*endereco do git*
+git remote add origin https://github.com/Rpererah/aulinhadegit.git
+
+*subir para o git*
+git push -u origin main
+
+*novalinha do git clone*
