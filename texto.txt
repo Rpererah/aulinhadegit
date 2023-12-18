@@ -1,0 +1,7 @@
+git config --global user.name "seu nome"
+git config --global user.email "seu email"
+
+*git add*
+git add .
+git add texto.txt 
+git add pasta/.
